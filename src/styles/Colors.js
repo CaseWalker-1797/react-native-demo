@@ -5,4 +5,4 @@ export const accentColor = '#51C833';
 export const bgColor = '#0D2A3F';
 export const textColor = '#FFFFFF';
 export const inactiveTabColor='#CBCFE1CC';
-export const checkboxFillColor='rgba(203, 207, 225, 0.60)'
+export const checkboxFillColor='rgba(203, 207, 225, 0.60)';
